@@ -10,3 +10,18 @@
 * Telegram: @zeecosh
 * Email: zarina.kubanychbekova.ss@gmail.com
 * GitHub: kzarina
+
+## About me 
+
+> Passionate about programming.
+
+## Skills
+1. HTML 5
+2. CSS 3
+4. Javascript 
+5. Git
+
+## Course 
+
++ Code Basics (HTML, CSS, JS)
++ FreeCodeCamp (Responsive Web Design)
