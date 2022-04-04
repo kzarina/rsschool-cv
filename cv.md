@@ -25,3 +25,12 @@
 
 + Code Basics (HTML, CSS, JS)
 + FreeCodeCamp (Responsive Web Design)
+
+## Code Example 
+```
+const square = (x) => {
+  return x ** 2;
+};​
+```
+## English 
+* B1
